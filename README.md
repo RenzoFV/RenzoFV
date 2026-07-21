@@ -101,7 +101,3 @@
 ### 🌐 Idiomas
 
 `Español (Nativo)` &nbsp;·&nbsp; `Inglés (Intermedio)` &nbsp;·&nbsp; `Alemán (Básico)`
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer&animation=fadeIn"/>
-</p>
