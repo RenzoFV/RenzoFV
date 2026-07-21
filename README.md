@@ -24,7 +24,6 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante del **5to año de Ingeniería de Sistemas** – Universidad Nacional de Trujillo
 - 💼 Full Stack Developer con experiencia liderando equipos técnicos y construyendo aplicaciones web escalables
 - 🛠️ Experiencia diseñando **APIs RESTful**, optimizando performance y modernizando sistemas legacy
 - 🏗️ Me gusta definir arquitecturas, roadmaps técnicos y mentorear equipos de desarrollo
