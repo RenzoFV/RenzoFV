@@ -1,5 +1,12 @@
-<h1 align="center">Hola, soy Renzo Florian 👋</h1>
-<h3 align="center">Full Stack Developer | Node.js · React/Next.js · PostgreSQL</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Renzo%20Florian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b>¡Hola! Soy Renzo</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+-+UNT;Construyendo+APIs+RESTful+y+SPAs+escalables;Apasionado+por+la+arquitectura+de+software" alt="Typing SVG" />
@@ -81,13 +88,29 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RenzoFV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoFV&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RenzoFV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RenzoFV&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenzoFV&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=RenzoFV&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenzoFV&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+> 💡 Si alguna tarjeta no carga, es porque el servicio gratuito está saturado — recarga la página en unos minutos, no es un error de tu perfil.
+
+---
+
+### 🐍 Snake de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RenzoFV/RenzoFV/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
+
+> ⚠️ Esta animación **requiere un paso extra** (una GitHub Action). Te explico abajo cómo activarla — mientras no la configures, esta imagen saldrá rota.
 
 ---
 
@@ -99,4 +122,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RenzoFV&label=Visitas+al+perfil&color=2E9EF7&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=100&section=footer" width="100%"/>
 </p>
