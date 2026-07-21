@@ -63,10 +63,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,nestjs,express,laravel,spring,python,php,postgres,mysql,mongodb,git,github,gitlab,tailwind,bootstrap,docker" />
 </p>
 
-<details>
-<summary>📋 Ver detalle por categoría</summary>
-<br>
-
 **Lenguajes:** JavaScript, TypeScript, Python, PHP, Java, SQL
 
 **Frontend:** React, Next.js, Angular, Tailwind CSS, Bootstrap
@@ -79,23 +75,26 @@
 
 **Metodologías:** Scrum, Code Review, Mentoría técnica
 
-</details>
-
 ---
 
-### 🏆 Logros en GitHub
+### 📊 Lenguajes más usados
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RenzoFV&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RenzoFV&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
----
+<div align="center">
 
-### 📈 Actividad de contribuciones
+| Lenguaje / Stack | ¿Dónde lo usé? |
+|---|---|
+| **TypeScript · React · Next.js** | Panel admin de retail, Page Builder de SaaS, landing pages |
+| **Python (FastAPI)** | Middleware de integración de datos entre sistemas legacy |
+| **Node.js · Nest.js** | Módulos de RRHH y Producción, diseño de endpoints RESTful |
+| **PostgreSQL** | Centralización de catálogo de productos, base de datos de e-commerce |
+| **Strapi CMS** | Estructuras de contenido modulares para sistema corporativo |
+| **JavaScript · Tailwind CSS** | Optimización SEO y performance en landing pages |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenzoFV&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
+</div>
 
 ---
 
