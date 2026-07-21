@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Renzo%20Florian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Renzo%20Florian&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Node.js%20%C2%B7%20React%2FNext.js%20%C2%B7%20PostgreSQL&descAlignY=58&descSize=16&descColor=B8C6DB" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <b>¡Hola! Soy Renzo</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+-+UNT;Construyendo+APIs+RESTful+y+SPAs+escalables;Apasionado+por+la+arquitectura+de+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Estudiante+de+Ingenier%C3%ADa+de+Sistemas+-+UNT;Construyendo+APIs+RESTful+y+SPAs+escalables;Apasionado+por+la+arquitectura+de+software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,8 +13,12 @@
   <a href="mailto:renzoflorian01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Trujillo,_Perú-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trujillo,_Perú-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="380">
+</div>
 
 ---
 
@@ -85,32 +83,19 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🏆 Logros en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RenzoFV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RenzoFV&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RenzoFV&theme=dracula&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RenzoFV&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenzoFV&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
-> 💡 Si alguna tarjeta no carga, es porque el servicio gratuito está saturado — recarga la página en unos minutos, no es un error de tu perfil.
 
 ---
 
-### 🐍 Snake de contribuciones
+### 📈 Actividad de contribuciones
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RenzoFV/RenzoFV/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RenzoFV&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
-
-> ⚠️ Esta animación **requiere un paso extra** (una GitHub Action). Te explico abajo cómo activarla — mientras no la configures, esta imagen saldrá rota.
 
 ---
 
@@ -118,12 +103,6 @@
 
 `Español (Nativo)` &nbsp;·&nbsp; `Inglés (Intermedio)` &nbsp;·&nbsp; `Alemán (Básico)`
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RenzoFV&label=Visitas+al+perfil&color=2E9EF7&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer&animation=fadeIn"/>
 </p>
